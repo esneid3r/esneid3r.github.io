@@ -56,7 +56,7 @@
 	}
 }
 
-@media (min-width:320px){
+@media (min-width:320px or landscape){
 	* {
 		box-sizing: border-box;
 	}
